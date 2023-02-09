@@ -97,11 +97,12 @@ table {
 
   .module{
  
-    width: 28rem;
-    height: 28rem;
+    width: 35vw;
+    height: 35vw;
    
     
     position: absolute;
+    
     
    
   }
